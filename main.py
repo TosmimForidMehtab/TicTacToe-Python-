@@ -1,3 +1,5 @@
+# TODO: Creating a GUI
+
 # Creating a board
 board = ["-", "-", "-",
          "-", "-", "-",
